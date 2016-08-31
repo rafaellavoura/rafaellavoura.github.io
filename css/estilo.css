@@ -13,9 +13,9 @@
   display: block;
   border: #fff solid 10px
 }
-h1,h2{
+h2{
   margin-top: 10px;
-  text-align: center;
+  text-align: center;color: /#fff
 }
 body{
   background-image: url("../img/bg.jpg");
